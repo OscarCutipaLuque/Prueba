@@ -15,3 +15,9 @@ Esta es la sección 2
 |:------------- |:---------------:| -------------:|
 |1|Statistician|25|
 |2|Writer|32|
+## Sección 4
+# Enlaces e imagenes
+El enlace para este repositorio es [Mi repositorio](https://github.com/OscarCutipaLuque/Prueba).
+
+Ahora agrego una imagen de estadística Espacial.
+![git](AUTOCORRELATION.JPG)
