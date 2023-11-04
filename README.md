@@ -21,3 +21,8 @@ El enlace para este repositorio es [Mi repositorio](https://github.com/OscarCuti
 
 Ahora agrego una imagen de estadística Espacial.
 ![git](AUTOCORRELATION.JPG)
+
+## Cambio en la rama
+- Item1
+- Item2
+- Item3
