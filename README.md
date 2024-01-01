@@ -28,7 +28,8 @@ Esta es la sección 2
 El enlace para este repositorio es [Mi repositorio](https://github.com/OscarCutipaLuque/Prueba).
 
 Ahora agrego una imagen de estadística Espacial.
-![git](AUTOCORRELATION.JPG)
+![git](IMAGENES/AUTOCORRELATION.JPG)
+
 
 ## Cambio en la rama
 - Item1
