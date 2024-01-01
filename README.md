@@ -1,4 +1,12 @@
 # Introducción a GIT
+Este es mi primer repositorio en *GitHub* usando **git**.
+Un proyecto se puede clonar utilizando `git clone`.
+
+```R
+x = rnorm(100)
+y = rnorm(100)
+plot(x,y)
+```
 ## Sección 1
 Esta es la sección 1
 ```julia
